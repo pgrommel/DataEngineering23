@@ -9,7 +9,6 @@ Kursmaterialien zur Vorlesung Data Engineering
 ## Woche 1
 ### Labor
 * [Recall NumPy Indexing and Slicing](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_1/lab_01_NumPy.ipynb)
-* [Recall NumPy Indexing and Slicing - Lösung](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_1/lab_01_NumPy_solution.ipynb)
 * [Introduction to HDF5](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_1/lab_02_HDF5_intro.ipynb)
 
 ### Aufgaben
