@@ -29,3 +29,18 @@ Kursmaterialien zur Vorlesung Data Engineering
 ### Aufgaben
 * [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_1.ipynb) 
 * [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_2.ipynb) 
+
+## Woche 3
+### Vorlesung
+* [GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/GroupBy.ipynb)
+
+### Labor
+* [Pandas GroupBy](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Lab_01_pandas_Group_by.ipynb)
+* [Pandas Merge/Join](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Lab_02_pandas_MergeandJoin.ipynb)
+* [Pandas reshape](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Lab_03_pandas_reshape.ipynb)
+
+### Aufgaben
+* [01 - GroupBy Drinks](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Assignment_01_Alcohol_Exercise.ipynb) 
+* [02 - GroupBy Occupation](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Assignment_02_Occupation_Exercise.ipynb) 
+* [03 - GroupBy Test](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Assignment_03_Regiment_Exercises.ipynb)
+
