@@ -27,8 +27,8 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [Pandas Missing Data](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Lab_03_pandas_MissingData.ipynb)
 
 ### Aufgaben
-* [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_1.ipynb) 
-* [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_2.ipynb) 
+* [Assignment 01:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_1.ipynb)  --> [solution](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/solution_1.ipynb)
+* [Assignment 02:](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/Assignment_2.ipynb) --> [solution](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_2/solution_2a.ipynb)
 
 ## Woche 3
 ### Vorlesung
