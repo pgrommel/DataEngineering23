@@ -44,3 +44,9 @@ Kursmaterialien zur Vorlesung Data Engineering
 * [02 - GroupBy Occupation](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Assignment_02_Occupation_Exercise.ipynb) 
 * [03 - GroupBy Test](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_3/Assignment_03_Regiment_Exercises.ipynb)
 
+## Woche 4
+### Labor
+
+### Assigments
+*  [MapReduce with Python FuncTools](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_MapReduce.ipynb) 
+*  [Parallel MapReduce with Python](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_Parallel_MapReduce.ipynb
