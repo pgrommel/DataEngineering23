@@ -48,8 +48,8 @@ Kursmaterialien zur Vorlesung Data Engineering
 ### Labor
 
 ### Assigments
-*  [MapReduce with Python FuncTools](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_MapReduce.ipynb) 
-*  [Parallel MapReduce with Python](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_Parallel_MapReduce.ipynb)
+*  [MapReduce with Python FuncTools](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_MapReduce.ipynb) ->[solution](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_MapReduce_solution.ipynb)
+*  [Parallel MapReduce with Python](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_Parallel_MapReduce.ipynb) ->[solution](https://colab.research.google.com/github/keuperj/DataEngineering23/blob/main/week_4/Assignment_Parallel_MapReduce_solution.ipynb)
 
 ## Woche 5
 ### Labor
